@@ -126,9 +126,9 @@ label:active{
     }
     .navbar_register_container{
         margin-top: 0%;
-        /* background-color: #cfae9b; */
+        background-color: #cfae9b;
         width: 100%;
-        z-index: auto;
+       
         /* height: vh; */
     }
 }

@@ -122,7 +122,7 @@ const Login = () => {
               </li>
             </div>
             <div className="new_user_register">
-              new user{" "}
+              new user
               <NavLink to={"/auth/register"} className={"nav-link"}>
                 Register-Now
               </NavLink>

@@ -128,8 +128,9 @@
     z-index: 99;
   }
   .p_links{
-    
+    font-size: 18px;
     list-style: none;
+    z-index: 10;
   }
   
   .navbar_container {
@@ -154,7 +155,8 @@
     justify-content: space-between;
     text-align: center;
     align-items: center;
-    height: 14vh;
+    height: 120px;
+    padding-bottom: 20px;
   }
    .toggle_button{
       display:block;
@@ -173,13 +175,8 @@
     margin-left: 40px;
     margin-top: 1%;
     flex-direction: column;
+    align-items: center;
   }
   
-  .dropdown_content {
-    margin-top: 22px;
-    margin-left: 0px;
-    height: 40px;
-  }
-
   
 }
