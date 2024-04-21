@@ -44,7 +44,7 @@ const Landing = () => {
         <Navbar/>
         <div className="content_box">
             <h1 className="content_h1">Perfect  Home</h1>
-            <p className="content_p"> our modern living quarters</p>
+            <p className="content_p"> Our Modern Living Quarters</p>
         </div>
 
       </div>
