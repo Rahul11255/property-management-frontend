@@ -12,7 +12,7 @@ const Landing = () => {
       } else {
         setCurrentstate(currentstate + 1);
       }
-    }, 100000);
+    }, 1500);
     return () => clearTimeout(timer);
   }, [currentstate]);
   const bgImageStyle = {
